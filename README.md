@@ -82,12 +82,12 @@
     <h2>Our memory lane 📸</h2>
     <p class="section-note">Replace these sample image files with your own photos. Keep the image files in the same folder as this HTML and use the filenames shown below.</p>
     <div class="gallery">
-      <div class="polaroid"><img src="photo1.jpg" alt="A favourite memory together"><div class="caption">One of my favourite memories 💕</div></div>
-      <div class="polaroid"><img src="photo2.jpg" alt="A happy moment together"><div class="caption">That smile. Always that smile. ☀️</div></div>
-      <div class="polaroid"><img src="photo3.jpg" alt="A special moment"><div class="caption">A moment I'd keep forever 🥹</div></div>
-      <div class="polaroid"><img src="photo4.jpg" alt="Another memory together"><div class="caption">More memories with you, please 🫶</div></div>
-      <div class="polaroid"><img src="photo5.jpg" alt="A fun memory"><div class="caption">Us being us 😂</div></div>
-      <div class="polaroid"><img src="photo6.jpg" alt="A treasured photo"><div class="caption">One for the memory books 💌</div></div>
+      <div class="polaroid"><img src="photo1.jpeg" alt="A favourite memory together"><div class="caption">One of my favourite memories 💕</div></div>
+      <div class="polaroid"><img src="photo2.jpeg" alt="A happy moment together"><div class="caption">That smile. Always that smile. ☀️</div></div>
+      <div class="polaroid"><img src="photo3.jpeg" alt="A special moment"><div class="caption">A moment I'd keep forever 🥹</div></div>
+      <div class="polaroid"><img src="photo4.jpeg" alt="Another memory together"><div class="caption">More memories with you, please 🫶</div></div>
+      <div class="polaroid"><img src="photo5.jpeg" alt="A fun memory"><div class="caption">Us being us 😂</div></div>
+      <div class="polaroid"><img src="photo6.jpeg" alt="A treasured photo"><div class="caption">One for the memory books 💌</div></div>
     </div>
   </div>
 </section>
