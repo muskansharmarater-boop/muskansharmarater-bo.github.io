@@ -118,7 +118,7 @@
       <button class="button" onclick="openSecret()">Open when you're ready ❤️</button>
       <div id="secret">
         <p>My wish for you is that this year gives you a thousand reasons to smile—and that you never forget how loved you are. May you get all the khushis that you have been waiting for all this time...Japan, Gaadi, Ghar, money.</p>
-        <p><strong>Happy birthday, my favourite boii. Here's to you. Always. ❤️</strong></p>
+        <p><strong>Happy birthday, my favourite boii. You will always be special to me Cheeku ❤️</strong></p>
         <div style="font-size:30px">💗 💗 💗</div>
       </div>
     </div>
