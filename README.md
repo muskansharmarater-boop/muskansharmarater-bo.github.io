@@ -117,7 +117,8 @@
       <button class="button" onclick="openSecret()">Open when you're ready ❤️</button>
       <div id="secret">
         <p>I wish that this year gives you a thousand reasons to smile—and that you never forget how loved you are. May you get all the khushis that you have been waiting for all this time...Japan, Gaadi, Ghar, money, Ghumi ghumi(mere saath)... I LOVE YOU MY CHIKLI CHUU </p>
-        <p><strong>Happy birthday LOVE . You will always be special to me Cheeku ❤️</strong></p>
+        <p><strong>Happy birthday LOVE . You will always be special to me Cheeku ❤️
+        Thank You for being MINE 💗 </strong></p>
         <div style="font-size:30px">💗 💗 💗</div>
       </div>
     </div>
