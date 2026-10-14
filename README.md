@@ -102,7 +102,7 @@
       <article class="reason"><div class="emoji">😊</div><h3>Your smile</h3><p> Your smile is one of my favourite things. Seeing you happy makes me happy, too.The way you squeeze those eyes meri cutiee 😘 </p></article>
       <article class="reason"><div class="emoji">🛍️</div><h3>Your shopping passion</h3><p>I love how passionate you are about shopping and buying thingss. 😂 The excitement is soo reall.. the dedication is unmatched hehhe and honestly, it's so very you 😂 </p></article>
       <article class="reason"><div class="emoji">😂</div><h3>Your sense of humour</h3><p>I love how funny you are and how you can make things feel lighter. Life is more fun when you're around </p></article>
-      <article class="reason"><div class="emoji">☀️</div><h3>Your energy</h3><p>You uplift the mood in whatever room you're in. You bring laughter, life snd the feeling to be around youis beautiful cheeklii.</p></article>
+      <article class="reason"><div class="emoji">☀️</div><h3>Your energy</h3><p>You uplift the mood in whatever room you're in. You bring laughter, life and the feeling to be around you, is beautiful cheeklii.</p></article>
       <article class="reason"><div class="emoji">❤️</div><h3>Because you're you</h3><p>All these things are only a few reasons. I love the person you are, including all the little details that make you my Cheeku. </p></article>
     </div>
   </div>
