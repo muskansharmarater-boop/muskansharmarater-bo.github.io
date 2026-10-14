@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -67,10 +66,10 @@
       <div class="eyebrow">A letter for my favourite boii</div>
       <h2>To my Cheeku,</h2>
       <p>Happy birthday, my cheeku ❤️</p>
-      <p>I hope you know how special you are—not just today, but on all the ordinary days too. I love your humour,  the way you bring so much life into every room you're in. You have this way of lifting the mood and making people feel the energy you bring with you, and I hope you never stop being that person. I lovee your energyyy</p>
-      <p>I love the little things about you just as much as the big things: your eyes, your smile, your funny side, and the very serious passion you have for shopping and buying things. 😂 Yeh lelo voh lena hai voh toh liya hi naii hehe 😂  I love that you're unapologetically yourself. There's so much about you that makes you <em>you</em>, and those are the things I keep falling for.</p>
+      <p>I hope you know how special you are—not just today, but on all the ordinary days too. I love your humour,  the way you bring so much life into every room you're in. You have this way of lifting the mood and making people feel the energy you bring with you, and I hope you never stop being that person. I lovee your energyyy ❤️ </p>
+      <p>I love the little things about you just as much as the big things: your eyes, the mole on your lips, your smile, your funny side, and the very serious passion you have for shopping and buying things. 😂 Yeh lelo voh lena hai voh toh liya hi naii hehe 😂 I love that you're unapologetically yourself. There's so much about you that makes you <em>you</em>, and those are the things I keep falling for.</p>
       <p>For your birthday, I wish you a year full of happiness, exciting plans (with me hehe), things that make you feel proud of yourself, and all the little things that make your eyes light up. I hope this year gives you all that you wanted, and you keep laughing the way you do, and that you always feel loved(btw you're always loved by me 💕 )</p>
-      <p>And if you ever forget how wonderful you are, I hope this little page reminds you. I made it because you deserve to feel celebrated everyy dayyy my babyyy </p>
+      <p>And if you ever forget how wonderful you are, I hope this little page reminds you. I made it because you deserve to feel celebrated everyy dayyy my babyyy 😘 </p>
       <p class="signature">Happy birthday, Cheeku. I love you. 💗</p>
     </div>
   </div>
@@ -98,13 +97,13 @@
     <h2>Reasons why I love you 💗</h2>
     <p class="section-note">It's not just one big thing. It's all these little pieces of you, put together.</p>
     <div class="reasons">
-      <article class="reason"><div class="emoji">🌷</div><h3>Your kindness</h3><p>I love how kind you are. The goodness in your heart is one of the things that makes you so special, and I hope you never lose it... I do notice good things in you bs kamiya nai dikhti beba merko </p></article>
-      <article class="reason"><div class="emoji">👀</div><h3>Your eyes</h3><p>Your eyes deserve their own love letter, meri mrig naini. I could find a hundred excuses to look at them.</p></article>
-      <article class="reason"><div class="emoji">😊</div><h3>Your smile</h3><p>Your smile is one of my favourite things. Seeing you happy makes me happy, too.</p></article>
-      <article class="reason"><div class="emoji">🛍️</div><h3>Your shopping passion</h3><p>I love how passionate you are about shopping and buying stuff. 😂 The excitement is soo reall.. the dedication is unmatched bhyi.. and honestly, it's so very you 😂 </p></article>
-      <article class="reason"><div class="emoji">😂</div><h3>Your sense of humour</h3><p>I love how funny you are and how you can make things feel lighter. Life is more fun when you're around.</p></article>
-      <article class="reason"><div class="emoji">☀️</div><h3>Your energy</h3><p>You uplift the mood in whatever room you're in. You bring laughter, life, and your own unmistakable energy—and that's a beautiful thing and feeling to be around you cheeklii.</p></article>
-      <article class="reason"><div class="emoji">❤️</div><h3>Because you're you</h3><p>All these things are only a few reasons. I love the person you are, including all the little details that make you my Cheeku.</p></article>
+      <article class="reason"><div class="emoji">🌷</div><h3>Your kindness</h3><p>I love how kind you are. The goodness in your heart is one of the things that makes you so special, and I hope you never lose it... the way you help needy people... I do notice good things in you bs kamiya nai dikhti beba merko </p></article>
+      <article class="reason"><div class="emoji">👀</div><h3>Your eyes</h3><p>Your eyes deserve their own love letter, meri mrig naini (I mean teri 🦌 eyes). I could find a hundred excuses to look at them </p></article>
+      <article class="reason"><div class="emoji">😊</div><h3>Your smile</h3><p> Your smile is one of my favourite things. Seeing you happy makes me happy, too.The way you squeeze those eyes meri cutiee 😘 </p></article>
+      <article class="reason"><div class="emoji">🛍️</div><h3>Your shopping passion</h3><p>I love how passionate you are about shopping and buying thingss. 😂 The excitement is soo reall.. the dedication is unmatched hehhe and honestly, it's so very you 😂 </p></article>
+      <article class="reason"><div class="emoji">😂</div><h3>Your sense of humour</h3><p>I love how funny you are and how you can make things feel lighter. Life is more fun when you're around </p></article>
+      <article class="reason"><div class="emoji">☀️</div><h3>Your energy</h3><p>You uplift the mood in whatever room you're in. You bring laughter, life snd the feeling to be around youis beautiful cheeklii.</p></article>
+      <article class="reason"><div class="emoji">❤️</div><h3>Because you're you</h3><p>All these things are only a few reasons. I love the person you are, including all the little details that make you my Cheeku. </p></article>
     </div>
   </div>
 </section>
@@ -117,7 +116,7 @@
       <p>There's one more little message waiting for you.</p>
       <button class="button" onclick="openSecret()">Open when you're ready ❤️</button>
       <div id="secret">
-        <p>My wish for you is that this year gives you a thousand reasons to smile—and that you never forget how loved you are. May you get all the khushis that you have been waiting for all this time...Japan, Gaadi, Ghar, money.</p>
+        <p>My wish for you is that this year gives you a thousand reasons to smile—and that you never forget how loved you are. May you get all the khushis that you have been waiting for all this time...Japan, Gaadi, Ghar, money. I LOVE YOU MY CHIKLI CHUU </p>
         <p><strong>Happy birthday, my favourite boii. You will always be special to me Cheeku ❤️</strong></p>
         <div style="font-size:30px">💗 💗 💗</div>
       </div>
